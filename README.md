@@ -9,9 +9,10 @@ Does it make sense for x person to buy an electric car?
 https://documenter.getpostman.com/view/3967924/RW1hhvSR#5977afdf-8740-401a-9fd5-e926c983aa52
 - Get Dealers
 - Inventory Search API for Vechile Type
+
 https://developer.tomtom.com/ev-charging-stations-availability-api/documentation/product-information/introduction
 - Charging Stations (free or paid??)
-- 
+  
 # 3 Questions to be answered
 Electric Chargers Near me 
   ** Near House
