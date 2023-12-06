@@ -15,12 +15,15 @@ https://developer.tomtom.com/ev-charging-stations-availability-api/documentation
   
 # 3 Questions to be answered
 Electric Chargers Near me 
+
   ** Near House
+  
   ** Near Work Place 
+
+  
 Are there electric dealers that are selling electric cars near me
+
 How many miles driven?
-  **  
-  **
 
 # Group Members 
 Esha Patel, Jeff Morgan, Ipsita, Smita Shah, Neil Lawren
