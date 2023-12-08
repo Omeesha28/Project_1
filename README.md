@@ -12,7 +12,12 @@ https://documenter.getpostman.com/view/3967924/RW1hhvSR#5977afdf-8740-401a-9fd5-
 
 https://developer.tomtom.com/ev-charging-stations-availability-api/documentation/product-information/introduction
 - Charging Stations (free or paid??)
-  
+
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/ev-charge-finder
+- Charging Location 
+
+https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset
+
 # 3 Questions to be answered
 Electric Chargers Near me 
 
