@@ -1,0 +1,1 @@
+RapidAPIKey = "15bff316ebmsha9ac5f4de8ee9f4p1cd432jsnaf7abf7be8e5"
