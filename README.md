@@ -23,3 +23,35 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 # Group Members 
 Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
+
+
+
+
+
+
+
+### PROJECT OUTINE
+
+The steps involved in the process of Exploratory Data Analysis are.,
+
+- Import the required libraries and its dependencies.
+
+- Download the dataset.
+
+- Data preparation and cleaning it.
+
+- Exploratory Analysis.
+
+- Ask and solve questions from the data.
+
+- Pictorial representation of data using visualization techniques.
+
+
+## Steps in Exploratory Data Analysis
+* Select the real-world data set from Kaggle/any other source.
+* Download the dataset and convert it into a Pandas DataFrame.
+* Perform data cleaning/deal with missing values using Pandas and NumPy.
+* Plot interactive graphs to understand the data using visual libraries like Plotly.
+* Ask and Answer interesting questions from the dataset.
+* Summarize your key inferences and state the conclusion.
+* Elaborate on ideas for future work and quote references.
