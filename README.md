@@ -96,4 +96,5 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 
 ### MAIN ANALYSIS: OVERALL QUESTION!!!!
 
+![output]("Bellevue Charging Speed Distribution.png")
 
