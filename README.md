@@ -35,7 +35,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 3. What are the most popular car models in the selected cities and do they have federal rebate?
 
 # Analysis
-### QUESTION 1 ANALYSIS: Which cities in Washington have the most electric and hybrid cars registered?
+### Sub-QUESTION 1 ANALYSIS: Which cities in Washington have the most electric and hybrid cars registered?
 #### Data Overview:
 -	Total Rows: 159,106
 -	Analysis Focus: Electric and Plug-in Hybrid Vehicles in Washington State, Top 5 Cities 
@@ -62,7 +62,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	The charging infrastructure is visualized through the total number of chargers in these cities.
 -	This analysis provides insights into the distribution of electric and plug-in hybrid vehicles and the corresponding charging infrastructure in the specified top 5 cities in Washington State with highest number of registered All-Electric Cars and Plug-In-hybrid cars.
 
-### QUESTION 2 ANALYSIS: What is the ratio of cars to chargers in the selected cities? What is the speed for all the chargers in top 5 cities?
+### Sub-QUESTION 2 ANALYSIS: What is the ratio of cars to chargers in the selected cities? What is the speed for all the chargers in top 5 cities?
 #### Reading Data:
 -	The data is read from a CSV file and stored in the chargers_df DataFrame.
 
@@ -81,7 +81,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 #### Analysis: 
 - The analysis shows that overall the top 5 cities has slow chargers. ....
 
-### QUESTION 3 ANALYSIS: Question 3: What are the most popular car models in the selected cities have federal rebate?
+### Sub-QUESTION 3 ANALYSIS: Question 3: What are the most popular car models in the selected cities have federal rebate?
 #### Reading Data:
 -	The data is read from a CSV file and stored in the tax_rebate_per_model_compressed_df Dataframe.
 
@@ -95,3 +95,6 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 - Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y it also has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentive. 
 
 ### MAIN ANALYSIS: Is Washington Ready for the EV Revolution?
+
+# Limitations 
+
