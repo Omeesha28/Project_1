@@ -53,8 +53,12 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 ##### Bar Chart 1: Top 5 Cities with Highest EV and Plug-in-hybrid Cars Registered
 -	Represents the top 5 cities based on registered electric and plug-in hybrid vehicles.
 
+![output](output_data/Top_5_Cities.png) 
+
 ##### Bar Chart 2: Total Chargers Available by Cities
 -	Represents the total number of chargers available in the top 5 cities. The bar chart helps indicates the charging infrastructure in these cities.
+
+![output](output_data/Total_Chargers_Available_by_Cities.png) 
 
 #### Analysis: 
 -	Bothell, Vancouver, Redmond, Bellevue, and Seattle emerge as key cities with significant car registrations.
@@ -68,11 +72,27 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	We have executed filters on the data for charging stations located in Bellevue, Bothell, Seattle, Vancouver, and Redmond, WA and storeed it in the relevant variables. 
 
 #### Pie Chart:
-- A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles. 
-- A pie chart was also created to show charger distribution for the selected top 5 cities with the greatest population of electric vehicles. 
+- A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles.
+
+![output](output_data/Bellevue_Charging_Speed_Distribution.png) 
+![output](output_data/Bothell_Charging_Speed_Distribution.png)
+![output](output_data/Redmond_Charging_Speed_Distribution.png)
+![output](output_data/Seattle_Charging_Speed_Distribution.png)
+![output](output_data/Vancouver_Charging_Speed_Distribution.png)
+
+- A pie chart was also created to show charger distribution and car to charger ratio for the selected top 5 cities with the greatest population of electric vehicles. 
+
+![output](output_data/Car_to_Charger_Ratio_per_city.png) 
+![output (output_data/Charging_Speed_Distribution.png) 
 
 #### Map Plot:
-- A map plot using hvplot.points is created to display the availability of charging stations near the selected cities on a map. 
+- A map plot using hvplot.points is created to display the availability of charging stations near the selected cities on a map.
+
+![output](output_data/Charging_Stations_in_Bellevue.png) 
+![output](output_data/Charging_Stations_in_Bothell.png)
+![output](output_data/Charging_Stations_in_Seattle.png)
+![output](output_data/Charging_Stations_Vancouver.png)
+![output](output_data/Charging_Stations_Redmond.png)
 
 #### Analysis: 
 - The analysis shows that overall the top 5 cities have more than 60% of slow chargers. Based on the data, we think that the cities need more fast chargers as it would not be sustainable if there were more electric cars registered per city. 
@@ -87,6 +107,8 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 #### Bar Chart: Most Popular Car Models in all 5 Cities and WordCloud:
 -	Represents the top 6 car models for all selected cities.
 
+![output](output_data/WordCloud.png) 
+
 #### Analysis: 
 - Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentives. 
 
@@ -96,4 +118,4 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
   
 # Limitations 
 - Due to the limitation of time and funds, it restricted the depth and thoroughness of the analysis that can be performed. Most of the data available required alot of funding which we did not have to complete the project.  
-- Another limitation was lack of data available for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
+- Another challenge was data acquisition. We were unable to find datasets for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
