@@ -96,4 +96,4 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
   
 # Limitations 
 - Due to the limitation of time and funds, it restricted the depth and thoroughness of the analysis that can be performed. Most of the data available required alot of funding which we did not have to complete the project.  
-- Another limitation was lack of data available for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
+- Another challenge was data acquisition. We were unable to find datasets for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
