@@ -29,10 +29,10 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 
 
 # Sub-Questions to be answered
-1. Which cities in Washington have the most electric and hybrid cars registered?
+1. Which cities in Washington have the most electric and plug-in-hybrid cars registered?
 2. What is the ratio of cars to chargers in the selected cities? 
-    - fast/slow charging ports
-3. What are the most popular car models in the selected cities and do they have federal rebate?
+    - What is the availability of fast and slow charging ports per city?
+3. What are the most popular car models in the selected cities and do they have federal incentive?
 
 # Analysis
 ### Sub-QUESTION 1 ANALYSIS: Which cities in Washington have the most electric and hybrid cars registered?
@@ -57,12 +57,10 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	Represents the total number of chargers available in the top 5 cities. The bar chart helps indicates the charging infrastructure in these cities.
 
 #### Analysis: 
--	The analysis provides a view of the distribution of electric and hybrid vehicles in Washington State.
 -	Bothell, Vancouver, Redmond, Bellevue, and Seattle emerge as key cities with significant car registrations.
--	The charging infrastructure is visualized through the total number of chargers in these cities.
--	This analysis provides insights into the distribution of electric and plug-in hybrid vehicles and the corresponding charging infrastructure in the specified top 5 cities in Washington State with highest number of registered All-Electric Cars and Plug-In-hybrid cars.
+-	This analysis provides insights into the distribution of electric and plug-in hybrid vehicles and the corresponding charging infrastructure in the specified top 5 cities in Washington State with highest number of registered cars.
 
-### Sub-QUESTION 2 ANALYSIS: What is the ratio of cars to chargers in the selected cities? What is the speed for all the chargers in top 5 cities?
+### Sub-QUESTION 2 ANALYSIS:  What is the ratio of cars to chargers in the selected cities? What is the availability of fast and slow charging ports per city?
 #### Reading Data:
 -	The data is read from a CSV file and stored in the chargers_df DataFrame.
 
@@ -70,18 +68,16 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	We have executed filters on the data for charging stations located in Bellevue, Bothell, Seattle, Vancouver, and Redmond, WA and storeed it in the relevant variables. 
 
 #### Pie Chart:
--A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles. 
+- A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles. 
 - A pie chart was also created to show charger distribution for the selected top 5 cities with the greatest population of electric vehicles. 
--	The charging_speed_counts variable stores the count of each charging speed category in the filtered data.
--	The pie chart is created using Matplotlib with labeled slices, colors, and other styling options.
 
 #### Map Plot:
-- A map plot using hvplot.points is created to display the availability of charging stations on a map for top selected cities. 
+- A map plot using hvplot.points is created to display the availability of charging stations near the selected cities on a map. 
 
 #### Analysis: 
-- The analysis shows that overall the top 5 cities has slow chargers. ....
+- The analysis shows that overall the top 5 cities have more than 60% of slow chargers. Based on the data, we think that the cities need more fast chargers as it would not be sustainable if there were more electric cars registered per city. 
 
-### Sub-QUESTION 3 ANALYSIS: Question 3: What are the most popular car models in the selected cities have federal rebate?
+### Sub-QUESTION 3 ANALYSIS: Question 3: What are the most popular car models in the selected cities and do they have federal incentive?
 #### Reading Data:
 -	The data is read from a CSV file and stored in the tax_rebate_per_model_compressed_df Dataframe.
 
@@ -92,9 +88,12 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	Represents the top 6 car models for all selected cities.
 
 #### Analysis: 
-- Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y it also has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentive. 
+- Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentives. 
 
 ### MAIN ANALYSIS: Is Washington Ready for the EV Revolution?
-
+- Based on our research and provided the data, we do not think Washinton State is ready for the EV Revolution yet. In our project, we have analyzed the top 5 cities with the most electric vechicles registered and we found that there are many charging stations available. High-speed charging can adversely impact the lifespan of a car's battery. Nonetheless, the majority of cars are equipped with an integrated battery management system designed to regulate both the charging speed and the temperature of the battery. Most of the charging stations are slow in charging speed which would not be conveninet for everyone specially those who do not have charging stations near their homes and work places which will result in issues like cars not having sufficient charge when needed.
+- When purchasing a EV vechile it is important to know if there are any federal and state incentives provided. 
+  
 # Limitations 
-
+- Due to the limitation of time and funds, it restricted the depth and thoroughness of the analysis that can be performed. Most of the data available required alot of funding which we did not have to complete the project.  
+- Another limitation was lack of data available for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
