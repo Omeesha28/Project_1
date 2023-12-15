@@ -112,17 +112,19 @@ Tesla Supercharger,"Vancouver, WA, USA","800 NE Tenney Rd, Vancouver, WA 98685",
 ChargePoint Charging Station,"Vancouver, WA, USA","1215 N Hayden Meadows Dr, Portland, OR 97217",45.5939724,-122.6809924,Slow
 Nissan Charging Station,"Vancouver, WA, USA","3608 NE Auto Mall Dr, Vancouver, WA 98662",45.647959799999995,-122.59792669999999,Fast
 Blink Charging Station,"Vancouver, WA, USA","4000 Columbia House Blvd, Vancouver, WA 98661",45.6195464,-122.6289338,Medium
+Blink Charging Station,"Vancouver, WA, USA","9622 NE Vancouver Way, Portland, OR 97211",45.5930748,-122.6628259,Not Applicable
+Blink Charging Station,"Vancouver, WA, USA","10000 NE 33rd Dr, Portland, OR 97218",45.5947946,-122.63478769999999,Not Applicable
 Electric Vehicle Charging Station,"Vancouver, WA, USA","2001 NE Alberta St, Portland, OR 97211",45.5592143,-122.6447554,Medium
 Tesla Destination Charger,"Vancouver, WA, USA","909 N Hayden Island Dr, Portland, OR 97217",45.612749,-122.67568639999999,Medium
 Electric Vehicle Charging Station,"Vancouver, WA, USA","2915 Z St, Vancouver, WA 98661",45.6428142,-122.64382029999999,Slow
 ChargePoint Charging Station,"Vancouver, WA, USA","5000 N Willamette Blvd, Portland, OR 97203",45.571625,-122.72826699999999,Slow
+Blink Charging Station,"Vancouver, WA, USA","7900 NE 33rd Dr, Portland, OR 97211",45.580585,-122.63297399999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","1701 SE Columbia River Dr, Vancouver, WA 98661",45.6154495,-122.653628,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","10910 N Denver Ave, Portland, OR 97217",45.6001371,-122.6830281,Medium
-Blink Charging Station,"Vancouver, WA, USA","9622 NE Vancouver Way, Portland, OR 97211",45.5930748,-122.6628259,Not Applicable
 ChargePoint Charging Station,"Vancouver, WA, USA","5055 N Greeley Ave, Portland, OR 97217",45.559039999999996,-122.693629,Slow
 Blink Charging Station,"Vancouver, WA, USA","2903 NE Andresen Rd, Vancouver, WA 98661",45.643220299999996,-122.6002723,Slow
 Volta Charging Station,"Vancouver, WA, USA","8700 NE Vancouver Mall Dr, Vancouver, WA 98662",45.657709999999994,-122.5818501,Slow
-Blink Charging Station,"Vancouver, WA, USA","10000 NE 33rd Dr, Portland, OR 97218",45.5947946,-122.63478769999999,Not Applicable
+EVPassport Charging Station,"Vancouver, WA, USA","4721 NE 66th Ave, Vancouver, WA 98661",45.656859,-122.604327,Not Applicable
 Tesla Destination Charger,"Vancouver, WA, USA","1215 N Hayden Meadows Dr, Portland, OR 97217",45.594077,-122.68021499999999,Medium
 Blink Charging Station,"Vancouver, WA, USA","6116 NE Martin Luther King Jr Blvd, Portland, OR 97211",45.5669034,-122.66081519999999,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","3620 NE Martin Luther King Jr Blvd, Portland, OR 97212",45.5492717,-122.6613569,Slow
@@ -131,44 +133,42 @@ Eaton Charging Station,"Vancouver, WA, USA","804 N Alberta St, Portland, OR 9721
 Blink Charging Station,"Vancouver, WA, USA","6708 NE 63rd St, Vancouver, WA 98661",45.6682716,-122.60356189999999,Slow
 Volta Charging Station,"Vancouver, WA, USA","St WA 98686 US, Vancouver, WA 98686",45.722255399999995,-122.6508978,Slow
 ChargePoint Charging Station,"Vancouver, WA, USA","2349 NW 27th Ave, Portland, OR 97210",45.538247999999996,-122.707833,Slow
-Blink Charging Station,"Vancouver, WA, USA","7900 NE 33rd Dr, Portland, OR 97211",45.580585,-122.63297399999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","2725 N Gantenbein Ave, Portland, OR 97227",45.5421614,-122.66985679999999,Slow
+EVPassport Charging Station,"Vancouver, WA, USA","13414 NE 23rd Ave, Vancouver, WA 98686",45.718683999999996,-122.647954,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","Patient/Visitor Lot, Vancouver, WA 98664",45.6255461,-122.58179659999999,Slow
 Blink Charging Station,"Vancouver, WA, USA","9812 NE Hwy 99, Vancouver, WA 98665",45.692470799999995,-122.65750489999999,Slow
 Blink Charging Station,"Vancouver, WA, USA","2211 NE 139th St, Vancouver, WA 98686",45.7204354,-122.64870909999999,Slow
-EVPassport Charging Station,"Vancouver, WA, USA","4721 NE 66th Ave, Vancouver, WA 98661",45.656859,-122.604327,Not Applicable
+Blink Charging Station,"Vancouver, WA, USA","N Ramsay Wy, Portland, OR 97227",45.533221,-122.66825689999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","4555 N Channel Ave, Portland, OR 97217",45.5557628,-122.7028983,Slow
+Blink Charging Station,"Vancouver, WA, USA","1441 NE 2nd Ave, Portland, OR 97232",45.5338746,-122.6643751,Not Applicable
 Volta Charging Station,"Vancouver, WA, USA","Parking lot, Vancouver, WA 98662",45.657385399999995,-122.5847915,Slow
 Blink Charging Station,"Vancouver, WA, USA","9714 E Mill Plain Blvd, Vancouver, WA 98664",45.6213525,-122.5723627,Slow
 Blink Charging Station,"Vancouver, WA, USA","1620 NE Grand Ave, Portland, OR 97232",45.534514699999995,-122.6605144,Slow
+EVmatch Charging Station,"Vancouver, WA, USA","N Sumner St #112, Portland, OR 97217",45.560424399999995,-122.66791289999999,Not Applicable
+bp pulse Charging Station,"Vancouver, WA, USA","13014 SE Mill Plain Blvd, Vancouver, WA 98684",45.6194792,-122.5378042,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","7900 NE 33rd Dr, Portland, OR 97211",45.580380399999996,-122.6319309,Slow
 Tesla Destination Charger,"Vancouver, WA, USA","7801 NE Greenwood Dr, Vancouver, WA 98662",45.6534749,-122.5919065,Medium
-EVPassport Charging Station,"Vancouver, WA, USA","13414 NE 23rd Ave, Vancouver, WA 98686",45.718683999999996,-122.647954,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","5135 NE Columbia Blvd, Portland, OR 97218",45.5702612,-122.6088927,Slow
 Tesla Destination Charger,"Vancouver, WA, USA","9189 NE NE Cascades Pkwy, Portland, OR 97220",45.577998699999995,-122.56860329999999,Medium
 OpConnect Charging Station,"Vancouver, WA, USA","6329 NE Martin Luther King Jr Blvd, Portland, OR 97211",45.5681722,-122.6618759,Slow
+Shell Recharge Charging Station,"Vancouver, WA, USA","Parking lot, 5030 N Greeley Ave, Portland, OR 97217",45.560048099999996,-122.6929289,Not Applicable
 Electric Vehicle Charging Station,"Vancouver, WA, USA","1894-1896 NW 17th Ave, Portland, OR 97209",45.5365543,-122.68859649999999,Unknown
 Blink Charging Station,"Vancouver, WA, USA","5211 N Williams Ave, Portland, OR 97217",45.560748499999995,-122.6674087,Slow
+EV Connect Charging Station,"Vancouver, WA, USA","11714 NE 72nd Ave, Vancouver, WA 98686",45.7066344,-122.60001229999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","3912 N Vancouver Ave, Portland, OR 97227",45.5510656,-122.667757,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","6380 NE Alberta St, Portland, OR 97218",45.558852599999994,-122.59958739999999,Medium
-Blink Charging Station,"Vancouver, WA, USA","N Ramsay Wy, Portland, OR 97227",45.533221,-122.66825689999999,Not Applicable
-Blink Charging Station,"Vancouver, WA, USA","1441 NE 2nd Ave, Portland, OR 97232",45.5338746,-122.6643751,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","2054 N Vancouver Ave, Portland, OR 97227",45.5380755,-122.66750649999999,Slow
-EVmatch Charging Station,"Vancouver, WA, USA","N Sumner St #112, Portland, OR 97217",45.560424399999995,-122.66791289999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","5406 NE 107th Ave, Vancouver, WA 98662",45.661573,-122.56363259999999,Slow
 Blink Charging Station,"Vancouver, WA, USA","2723 NE 134th St, Vancouver, WA 98682",45.7161441,-122.6423363,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","Graham and, N Albina Ave, Portland, OR 97227",45.542651899999996,-122.6744593,Slow
-bp pulse Charging Station,"Vancouver, WA, USA","13014 SE Mill Plain Blvd, Vancouver, WA 98684",45.6194792,-122.5378042,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","2701 NW Vaughn St, Portland, OR 97210",45.5375454,-122.70780049999999,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","1631 NW Thurman St, Portland, OR 97209",45.5359109,-122.69023019999999,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","5135 NE Columbia Blvd, Portland, OR 97218",45.5708809,-122.60987089999999,Slow
-Shell Recharge Charging Station,"Vancouver, WA, USA","Parking lot, 5030 N Greeley Ave, Portland, OR 97217",45.560048099999996,-122.6929289,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","2929 N Kerby Ave, Portland, OR 97227",45.54401,-122.67209009999999,Slow
-EV Connect Charging Station,"Vancouver, WA, USA","11714 NE 72nd Ave, Vancouver, WA 98686",45.7066344,-122.60001229999999,Not Applicable
+OpConnect Charging Station,"Vancouver, WA, USA","2227 River Plaza Dr, Portland, OR 95833",45.5498008,-122.69339249999999,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","62723 NE Killingsworth St, Portland, OR 97218",45.5653904,-122.5928407,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","4145 NE Cully Blvd, Portland, OR 97218",45.5530848,-122.6033344,Slow
 Electric Era Charging Station,"Vancouver, WA, USA","6060 NE Columbia Blvd, Portland, OR 97218",45.5683327,-122.5998137,Very fast
-OpConnect Charging Station,"Vancouver, WA, USA","2227 River Plaza Dr, Portland, OR 95833",45.5498008,-122.69339249999999,Not Applicable
 EVgo Charging Station,"Redmond, WA, USA","7525 166th Ave NE, Redmond, WA 98052",47.671369999999996,-122.11948989999999,Fast
 Electrify America Charging Station,"Redmond, WA, USA","NE 76th St, Redmond, WA 98052",47.671849599999994,-122.10449899999999,Very fast
 FLO Charging Station,"Redmond, WA, USA","7597 170th Ave NE, Redmond, WA 98052",47.670465,-122.11488899999999,Fast
@@ -286,7 +286,6 @@ Blink Charging Station,"Bellevue, WA, USA","155 108th Ave NE, Bellevue, WA 98004
 Blink Charging Station,"Bellevue, WA, USA","10333 NE 1st St, Bellevue, WA 98004",47.610983499999996,-122.2021273,Slow
 Flo Charging Station,"Bellevue, WA, USA","1100 112th Ave NE, Bellevue, WA 98004",47.620163,-122.190604,Slow
 Flo Charging Station,"Bellevue, WA, USA","11111 NE 8th St, Bellevue, WA 98004",47.6171298,-122.1925562,Slow
-ChargePoint Charging Station,"Bellevue, WA, USA","11505 NE 2nd Pl, Bellevue, WA 98004",47.611711299999996,-122.18729189999999,Slow
 Blink Charging Station,"Bellevue, WA, USA","10777 NE 10th St, Bellevue, WA 98004",47.6188947,-122.1969453,Slow
 Blink Charging Station,"Bellevue, WA, USA","10333 Main St, Bellevue, WA 98004",47.6098443,-122.20242739999999,Slow
 ChargePoint Charging Station,"Bellevue, WA, USA","13817 NE 20th St, Bellevue, WA 98005",47.6274449,-122.1559133,Medium
@@ -351,10 +350,12 @@ ChargePoint Charging Station,"Seattle, WA, USA","1609 Harvard Ave, Seattle, WA 9
 ChargePoint Charging Station,"Seattle, WA, USA","1001 4th Ave, Seattle, WA 98154",47.606217699999995,-122.33384199999999,Slow
 ChargePoint Charging Station,"Seattle, WA, USA","324 University St, Seattle, WA 98101",47.608016799999994,-122.33527269999999,Slow
 Blink Charging Station,"Seattle, WA, USA","800 5th Ave, Seattle, WA 98104",47.6056652,-122.33052789999999,Slow
+Blink Charging Station,"Seattle, WA, USA","415 Seneca St, Seattle, WA 98101",47.6073976,-122.333113,Not Applicable
 Tesla Supercharger,"Seattle, WA, USA","1201 2nd Ave, Seattle, WA 98101",47.606601,-122.33749499999999,Fast
 ChargePoint Charging Station,"Seattle, WA, USA","611 2nd Ave, Seattle, WA 98104",47.602553,-122.332883,Slow
 ChargePoint Charging Station,"Seattle, WA, USA","1012 Terry Ave, Seattle, WA 98101",47.6095008,-122.32646299999999,Slow
 Blink Charging Station,"Seattle, WA, USA","505 1st Ave S, Seattle, WA 98104",47.5974244,-122.33471739999999,Medium
+Blink Charging Station,"Seattle, WA, USA","1100 5th Ave, Seattle, WA 98101",47.6074068,-122.3324342,Not Applicable
 ChargePoint Charging Station,"Seattle, WA, USA","415 6th Ave, Seattle, WA 98104",47.6031,-122.3274833,Slow
 Blink Charging Station,"Seattle, WA, USA","1800 9th Ave, Seattle, WA 98101",47.615286,-122.333339,Medium
 ChargePoint Charging Station,"Seattle, WA, USA","253-295 S Jackson St, Seattle, WA 98104",47.5990001,-122.3308043,Slow
@@ -372,29 +373,29 @@ ChargePoint Charging Station,"Seattle, WA, USA","2125 1st Ave, Seattle, WA 98121
 ChargePoint Charging Station,"Seattle, WA, USA","1229 Madison St, Seattle, WA 98104",47.6100796,-122.3221511,Slow
 ChargePoint Charging Station,"Seattle, WA, USA","1920 Terry Ave, Seattle, WA 98101",47.617016,-122.33408,Slow
 ChargePoint Charging Station,"Seattle, WA, USA","2121 8th Ave, Seattle, WA 98121",47.6166872,-122.33890489999999,Slow
+Blink Charging Station,"Seattle, WA, USA","1508 7th Ave, Seattle, WA 98101",47.611985,-122.33349559999999,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","1011 Western Ave, Seattle, WA 98104",47.604634499999996,-122.3382757,Slow
-Blink Charging Station,"Seattle, WA, USA","415 Seneca St, Seattle, WA 98101",47.6073976,-122.333113,Not Applicable
+ChargePoint Charging Station,"Seattle, WA, USA","2205 7th Ave, Seattle, WA 98121",47.616653,-122.34079399999999,Slow
 Blink Charging Station,"Seattle, WA, USA","515 Minor Ave, Seattle, WA 98104",47.606359999999995,-122.32163899999999,Slow
 Blink Charging Station,"Seattle, WA, USA","450 Alaskan Way S, Seattle, WA 98104",47.5987016,-122.3351902,Slow
 Blink Charging Station,"Seattle, WA, USA","1101 Madison St, Seattle, WA 98104",47.6091997,-122.3241094,Slow
 Blink Charging Station,"Seattle, WA, USA","1401 Broadway, Seattle, WA 98122",47.6137442,-122.3213926,Slow
-Blink Charging Station,"Seattle, WA, USA","1100 5th Ave, Seattle, WA 98101",47.6074068,-122.3324342,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","1823 Minor Ave, Seattle, WA 98101",47.6171782,-122.3313731,Slow
 Blink Charging Station,"Seattle, WA, USA","325 9th Ave, Seattle, WA 98104",47.6039634,-122.3241159,Slow
+Blink Charging Station,"Seattle, WA, USA","Seattle, WA 98101",47.609412,-122.335219,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","550 4th Ave S, Seattle, WA 98134",47.597507799999995,-122.32859499999999,Slow
 Blink Charging Station,"Seattle, WA, USA","818 Stewart St, Seattle, WA 98101",47.615645799999996,-122.3350555,Slow
 Blink Charging Station,"Seattle, WA, USA","520 Occidental Ave S, Seattle, WA 98134",47.5977415,-122.33292329999999,Slow
 Tesla Destination Charger,"Seattle, WA, USA","1325 6th Ave, Seattle, WA 98101",47.6096369,-122.33337879999999,Medium
 Blink Charging Station,"Seattle, WA, USA","1812 Boren Ave, Seattle, WA 98101",47.6170349,-122.33218799999999,Slow
 Blink Charging Station,"Seattle, WA, USA","209 12th Ave S, Seattle, WA 98144",47.6004833,-122.31738,Medium
-Blink Charging Station,"Seattle, WA, USA","1508 7th Ave, Seattle, WA 98101",47.611985,-122.33349559999999,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","999 3rd Ave Level A, Seattle, WA 98104",47.6050822,-122.3340362,Slow
 Blink Charging Station,"Seattle, WA, USA","600 Broadway, Seattle, WA 98122",47.6079067,-122.3196425,Slow
 Blink Charging Station,"Seattle, WA, USA","2025 1st Ave, Seattle, WA 98121",47.6113722,-122.34370299999999,Slow
+Blink Charging Station,"Seattle, WA, USA","Seattle, WA 98134",47.597428,-122.330452,Not Applicable
 OpConnect Charging Station,"Seattle, WA, USA","700 5th Ave, Seattle, WA 98104",47.6050901,-122.3299108,Slow
 Tesla Destination Charger,"Seattle, WA, USA","411 University St, Seattle, WA 98101",47.6080626,-122.3340941,Slow
 Tesla Destination Charger,"Seattle, WA, USA","620 Stewart St, Seattle, WA 98101",47.6142276,-122.3364965,Medium
-Blink Charging Station,"Seattle, WA, USA","Seattle, WA 98101",47.609412,-122.335219,Not Applicable
 Tesla Destination Charger,"Seattle, WA, USA","1000 1st Ave, Seattle, WA 98104",47.605060699999996,-122.3362298,Slow
 Blink Charging Station,"Seattle, WA, USA","86 Pine St, Seattle, WA 98101",47.6098122,-122.3413016,Slow
 Blink Charging Station,"Seattle, WA, USA","1700 7th Ave UNIT 1800, Seattle, WA 98101",47.6140215,-122.335172,Slow
@@ -408,9 +409,8 @@ Tesla Destination Charger,"Seattle, WA, USA","2100 Alaskan Wy, Seattle, WA 98121
 Blink Charging Station,"Seattle, WA, USA","1050 James St, Seattle, WA 98104",47.6065736,-122.32307019999999,Slow
 Blink Charging Station,"Seattle, WA, USA","2105 5th Ave, Seattle, WA 98121",47.6144471,-122.3410102,Slow
 Blink Charging Station,"Seattle, WA, USA","1099 Stewart St, Seattle, WA 98101",47.6164918,-122.33248789999999,Slow
-Blink Charging Station,"Seattle, WA, USA","Seattle, WA 98134",47.597428,-122.330452,Not Applicable
+Blink Charging Station,"Seattle, WA, USA","1220 Howell St, Seattle, WA 98101",47.6174933,-122.3302255,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","1530 Belmont Ave, Seattle, WA 98122",47.6148399,-122.3241666,Slow
 Blink Charging Station,"Seattle, WA, USA","Union Station, 505 5th Ave S, Seattle, WA 98104",47.5975156,-122.3276726,Slow
 Loop Charging Station,"Seattle, WA, USA",US,47.617689999999996,-122.33059,Slow
-Blink Charging Station,"Seattle, WA, USA","1220 Howell St, Seattle, WA 98101",47.6174933,-122.3302255,Not Applicable
 Blink Charging Station,"Seattle, WA, USA","125 Boren Ave, Seattle, WA 98144",47.6013484,-122.3179139,Slow
