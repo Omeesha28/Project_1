@@ -49,7 +49,9 @@ Volta Charging Station,"Bothell, WA, USA","Seattle, WA 98125",47.754741499999994
 Volta Charging Station,"Bothell, WA, USA","Lynnwood, WA 98036",47.822022399999994,-122.2839149,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","20816 44th Ave W, Lynnwood, WA 98036",47.8107,-122.29534299999999,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","1519 NE 177th St, Shoreline, WA 98155",47.7568957,-122.31234429999999,Slow
+Blink Charging Station,"Bothell, WA, USA","12221 120th Ave NE, Kirkland, WA 98034",47.7083478,-122.18381629999999,Not Applicable
 ChargePoint Charging Station,"Bothell, WA, USA","23204 58th Ave W, Mountlake Terrace, WA 98043",47.787897,-122.311661,Slow
+Volta Charging Station,"Bothell, WA, USA","8234 NE 84th St, Kirkland, WA 98033",47.6787272,-122.1740315,Slow
 Blink Charging Station,"Bothell, WA, USA","11431 Willows Rd NE, Redmond, WA 98052",47.703728,-122.15423709999999,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","21975 52nd Ave W, Mountlake Terrace, WA 98043",47.7989008,-122.30250009999999,Slow
 Blink Charging Station,"Bothell, WA, USA","20812 Bothell Everett Hwy, Bothell, WA 98201",47.8081738,-122.2081999,Slow
@@ -57,13 +59,10 @@ Blink Charging Station,"Bothell, WA, USA","11607 98th Ave NE, Kirkland, WA 98034
 Volta Charging Station,"Bothell, WA, USA","Mountlake Terrace, WA 98043",47.8073826,-122.29067669999999,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","20800 44th Ave W, Lynnwood, WA 98036",47.810176,-122.294266,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","52 Kirkland Ave, Kirkland, WA 98033",47.675570199999996,-122.2073726,Slow
-Blink Charging Station,"Bothell, WA, USA","12221 120th Ave NE, Kirkland, WA 98034",47.7083478,-122.18381629999999,Not Applicable
 ChargePoint Charging Station,"Bothell, WA, USA","123 5th Ave, Kirkland, WA 98033",47.678475899999995,-122.2068063,Slow
 ChargePoint Charging Station,"Bothell, WA, USA","308 Kirkland Ave, Kirkland, WA 98033",47.675739199999995,-122.20318599999999,Slow
-ChargePoint Charging Station,"Bothell, WA, USA","Unnamed Road, Kirkland, WA 98033",47.6753648,-122.2074791,Slow
 Tesla Destination Charger,"Bothell, WA, USA","14850 NE 145th St, Woodinville, WA 98072",47.7339591,-122.1469968,Medium
 ChargePoint Charging Station,"Bothell, WA, USA","434 Kirkland Way, Kirkland, WA 98033",47.67624,-122.199675,Slow
-Volta Charging Station,"Bothell, WA, USA","8234 NE 84th St, Kirkland, WA 98033",47.6787272,-122.1740315,Slow
 Blink Charging Station,"Bothell, WA, USA","9931 Willows Rd NE, Redmond, WA 98052",47.688818,-122.15031499999999,Slow
 EVmatch Charging Station,"Bothell, WA, USA","32nd Ave NE #14300, Seattle, WA 98155",47.732222199999995,-122.29331029999999,Not Applicable
 Electric Vehicle Charging Station,"Bothell, WA, USA","14216 140th Pl NE, Kirkland, WA 98034",47.7300553,-122.15126989999999,Not Applicable
@@ -86,8 +85,8 @@ Blink Charging Station,"Bothell, WA, USA","11 Main St S, Kirkland, WA 98033",47.
 Blink Charging Station,"Bothell, WA, USA","3611 NE 155th St, Lake Forest Park, WA 98155",47.740732099999995,-122.2901407,Slow
 Pacific Electric Vehicle Technologies,"Bothell, WA, USA","2201 192nd St SE, Bothell, WA 98012",47.826359499999995,-122.2033041,Not Applicable
 Volta Charging Station,"Bothell, WA, USA","Lynnwood, WA 98037",47.8311755,-122.2737075,Not Applicable
-ZEF Charging Station,"Bothell, WA, USA","Alderwood Mall Blvd, Lynnwood, WA 98036",47.8248409,-122.27407009999999,Not Applicable
 Tesla Supercharger,"Bothell, WA, USA","Fred Meyer, 12221 120th Ave NE, Kirkland, WA 98034",47.709207,-122.18345199999999,Very fast
+ZEF Charging Station,"Bothell, WA, USA","Alderwood Mall Blvd, Lynnwood, WA 98036",47.8248409,-122.27407009999999,Not Applicable
 ChargePoint Charging Station,"Vancouver, WA, USA","850 Officers Row, Vancouver, WA 98661",45.629459999999995,-122.66336609999999,Fast
 Electrify America Charging Station,"Vancouver, WA, USA","7809 NE Vancouver Plaza Dr, Vancouver, WA 98663",45.6499434,-122.5933147,Very fast
 Electric Vehicle Charging Station,"Vancouver, WA, USA","4715 N Lagoon Ave, Portland, OR 97217",45.557316,-122.7029742,Very fast
@@ -130,6 +129,7 @@ OpConnect Charging Station,"Vancouver, WA, USA","3620 NE Martin Luther King Jr B
 ChargePoint Charging Station,"Vancouver, WA, USA","8778 NE 54th St, Vancouver, WA 98662",45.662011,-122.58410599999999,Slow
 Eaton Charging Station,"Vancouver, WA, USA","804 N Alberta St, Portland, OR 97217",45.5588167,-122.6752774,Slow
 Blink Charging Station,"Vancouver, WA, USA","6708 NE 63rd St, Vancouver, WA 98661",45.6682716,-122.60356189999999,Slow
+Volta Charging Station,"Vancouver, WA, USA","St WA 98686 US, Vancouver, WA 98686",45.722255399999995,-122.6508978,Slow
 ChargePoint Charging Station,"Vancouver, WA, USA","2349 NW 27th Ave, Portland, OR 97210",45.538247999999996,-122.707833,Slow
 Blink Charging Station,"Vancouver, WA, USA","7900 NE 33rd Dr, Portland, OR 97211",45.580585,-122.63297399999999,Not Applicable
 Blink Charging Station,"Vancouver, WA, USA","2725 N Gantenbein Ave, Portland, OR 97227",45.5421614,-122.66985679999999,Slow
@@ -141,7 +141,6 @@ Blink Charging Station,"Vancouver, WA, USA","4555 N Channel Ave, Portland, OR 97
 Volta Charging Station,"Vancouver, WA, USA","Parking lot, Vancouver, WA 98662",45.657385399999995,-122.5847915,Slow
 Blink Charging Station,"Vancouver, WA, USA","9714 E Mill Plain Blvd, Vancouver, WA 98664",45.6213525,-122.5723627,Slow
 Blink Charging Station,"Vancouver, WA, USA","1620 NE Grand Ave, Portland, OR 97232",45.534514699999995,-122.6605144,Slow
-EV Connect Charging Station,"Vancouver, WA, USA","13014 SE Mill Plain Blvd, Vancouver, WA 98684",45.6193147,-122.5378025,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","7900 NE 33rd Dr, Portland, OR 97211",45.580380399999996,-122.6319309,Slow
 Tesla Destination Charger,"Vancouver, WA, USA","7801 NE Greenwood Dr, Vancouver, WA 98662",45.6534749,-122.5919065,Medium
 EVPassport Charging Station,"Vancouver, WA, USA","13414 NE 23rd Ave, Vancouver, WA 98686",45.718683999999996,-122.647954,Not Applicable
@@ -168,7 +167,7 @@ OpConnect Charging Station,"Vancouver, WA, USA","2929 N Kerby Ave, Portland, OR 
 EV Connect Charging Station,"Vancouver, WA, USA","11714 NE 72nd Ave, Vancouver, WA 98686",45.7066344,-122.60001229999999,Not Applicable
 OpConnect Charging Station,"Vancouver, WA, USA","62723 NE Killingsworth St, Portland, OR 97218",45.5653904,-122.5928407,Slow
 OpConnect Charging Station,"Vancouver, WA, USA","4145 NE Cully Blvd, Portland, OR 97218",45.5530848,-122.6033344,Slow
-Plaid Pantry Charging station,"Vancouver, WA, USA","6060 NE Columbia Blvd, Portland, OR 97218",45.5682999,-122.59967259999999,Very fast
+Electric Era Charging Station,"Vancouver, WA, USA","6060 NE Columbia Blvd, Portland, OR 97218",45.5683327,-122.5998137,Very fast
 OpConnect Charging Station,"Vancouver, WA, USA","2227 River Plaza Dr, Portland, OR 95833",45.5498008,-122.69339249999999,Not Applicable
 EVgo Charging Station,"Redmond, WA, USA","7525 166th Ave NE, Redmond, WA 98052",47.671369999999996,-122.11948989999999,Fast
 Electrify America Charging Station,"Redmond, WA, USA","NE 76th St, Redmond, WA 98052",47.671849599999994,-122.10449899999999,Very fast
@@ -182,80 +181,79 @@ EVgo Charging Station,"Redmond, WA, USA","888 116th Ave NE, Bellevue, WA 98004",
 Electrify America Charging Station,"Redmond, WA, USA","11224 NE 124th St, Kirkland, WA 98034",47.7113985,-122.1908598,Very fast
 ChargePoint Charging Station,"Redmond, WA, USA","17601 NE Union Hill Rd, Redmond, WA 98052",47.674613099999995,-122.1040068,Slow
 Blink Charging Station,"Redmond, WA, USA","16015 Cleveland St, Redmond, WA 98052",47.6740345,-122.1267027,Slow
-Electric Circuit Charging Station,"Redmond, WA, USA","8020 161st Avenue Northeast, Redmond, WA 98052",47.67516,-122.12505999999999,Slow
 bp pulse Charging Station,"Redmond, WA, USA","13948 NE 20th St, Bellevue, WA 98005",47.628440499999996,-122.1541082,Very fast
-Blink Charging Station,"Redmond, WA, USA","17667 NE 76th St, Redmond, WA 98052",47.6713266,-122.1039959,Not Applicable
 bp pulse Charging Station,"Redmond, WA, USA","12903 NE 20th St, Bellevue, WA 98005",47.627770999999996,-122.16787339999999,Fast
 ChargePoint Charging Station,"Redmond, WA, USA","18080 NE 76th St, Redmond, WA 98052",47.6723213,-122.0990405,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","13817 NE 20th St, Bellevue, WA 98005",47.6274449,-122.1559133,Medium
+Electric Circuit Charging Station,"Redmond, WA, USA","8020 161st Avenue Northeast, Redmond, WA 98052",47.67516,-122.12505999999999,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","16080 NE 85th St, Redmond, WA 98052",47.679116,-122.1259788,Slow
 Blink Charging Station,"Redmond, WA, USA","16630 Redmond Way, Redmond, WA 98052",47.673331,-122.1183197,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","18130 NE 76th St, Redmond, WA 98052",47.672408999999995,-122.0971198,Slow
 Shell Recharge Charging Station,"Redmond, WA, USA","11930 124th Ave NE, Kirkland, WA 98034",47.707366199999996,-122.17398449999999,Fast
 ChargePoint Charging Station,"Redmond, WA, USA","6416 E Lake Sammamish Pkwy NE, Redmond, WA 98052",47.662861,-122.09780289999999,Slow
 EV Connect Charging Station,"Redmond, WA, USA","17770 NE 78th Pl, Redmond, WA 98052",47.673966,-122.1035582,Slow
+Blink Charging Station,"Redmond, WA, USA","17667 NE 76th St, Redmond, WA 98052",47.6713266,-122.1039959,Not Applicable
 ChargePoint Charging Station,"Redmond, WA, USA","2301 140th Ave NE, Bellevue, WA 98005",47.630645099999995,-122.1561385,Medium
 Blink Charging Station,"Redmond, WA, USA","18005 NE 68th St, Redmond, WA 98052",47.666551299999995,-122.09833119999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","18655 NE Union Hill Rd, Redmond, WA 98052",47.676051,-122.091578,Slow
 Blink Charging Station,"Redmond, WA, USA","9931 Willows Rd NE, Redmond, WA 98052",47.688818,-122.15031499999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","11601 Willows Rd NE, Redmond, WA 98052",47.7048415,-122.15444099999999,Slow
-ChargePoint Charging Station,"Redmond, WA, USA","12632 Totem Lake Blvd NE, Kirkland, WA 98034",47.713104,-122.18172,Slow
-ChargePoint Charging Station,"Redmond, WA, USA","15550 NE Turing St, Redmond, WA 98052",47.6356301,-122.13362029999999,Not Applicable
-ChargePoint Charging Station,"Redmond, WA, USA","999 164th Ave NE, Bellevue, WA 98008",47.618219499999995,-122.1224761,Slow
 Volta Charging Station,"Redmond, WA, USA","8234 NE 84th St, Kirkland, WA 98033",47.6787272,-122.1740315,Slow
+ChargePoint Charging Station,"Redmond, WA, USA","12632 Totem Lake Blvd NE, Kirkland, WA 98034",47.713104,-122.18172,Slow
 Hampton Inn Charging Station,"Redmond, WA, USA","17770 NE 78th Pl, Redmond, WA 98052",47.673966,-122.1035586,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","12039 NE 128th St, Kirkland, WA 98034",47.7144348,-122.1793996,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","2752-2836 152nd Ave NE, Redmond, WA 98052",47.635607199999995,-122.1372286,Slow
+ChargePoint Charging Station,"Redmond, WA, USA","999 164th Ave NE, Bellevue, WA 98008",47.618219499999995,-122.1224761,Slow
 Blink Charging Station,"Redmond, WA, USA","11431 Willows Rd NE, Redmond, WA 98052",47.703728,-122.15423709999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","12540 120th Ave NE, Kirkland, WA 98034",47.712309,-122.17951409999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","16000 NE 10th St, Bellevue, WA 98008",47.6191033,-122.12710249999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","11300-11398 128th Ave NE, Kirkland, WA 98034",47.7160562,-122.1794546,Slow
 Blink Charging Station,"Redmond, WA, USA","14700 NE 29th Pl, Bellevue, WA 98007",47.6364808,-122.1449785,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","12040 NE 128th St, Kirkland, WA 98034",47.714793,-122.17686889999999,Slow
-Shell Recharge Charging Station,"Redmond, WA, USA","18080 NE 76th St, Redmond, WA 98052",47.6723594,-122.09903399999999,Not Applicable
 ChargePoint Charging Station,"Redmond, WA, USA","14580 NE 145th St, Woodinville, WA 98072",47.734210999999995,-122.1470409,Slow
 Blink Charging Station,"Redmond, WA, USA","2580 152nd Ave NE, Redmond, WA 98052",47.6331559,-122.13591489999999,Slow
 Blink Charging Station,"Redmond, WA, USA","11010 NE 124th Ln, Kirkland, WA 98034",47.711825999999995,-122.19471899999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","16256 NE 8th St, Bellevue, WA 98008",47.617126,-122.12226,Slow
 Blink Charging Station,"Redmond, WA, USA","11605 132nd Ave NE, Kirkland, WA 98034",47.7054932,-122.16783029999999,Slow
-Blink Charging Station,"Redmond, WA, USA","12221 120th Ave NE, Kirkland, WA 98034",47.7083478,-122.18381629999999,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","5023 148th Ave NE, Bellevue, WA 98007",47.6538148,-122.1449353,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","52 Kirkland Ave, Kirkland, WA 98033",47.675570199999996,-122.2073726,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","NE 37th Ct, Kirkland, WA 98033",47.643757199999996,-122.1968988,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","308 Kirkland Ave, Kirkland, WA 98033",47.675739199999995,-122.20318599999999,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","3100 Northup Way, Bellevue, WA 98004",47.638269199999996,-122.1912938,Slow
-Blink Charging Station,"Redmond, WA, USA","16242 NE 13th Pl, Bellevue, WA 98008",47.621913,-122.122271,Not Applicable
 ChargePoint Charging Station,"Redmond, WA, USA","123 5th Ave, Kirkland, WA 98033",47.678475899999995,-122.2068063,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","434 Kirkland Way, Kirkland, WA 98033",47.67624,-122.199675,Slow
 Blink Charging Station,"Redmond, WA, USA","12405 NE 85th St, Kirkland, WA 98033",47.678973,-122.1750105,Slow
-Blink Charging Station,"Redmond, WA, USA","Parking lot, 2041 148th Ave NE, Bellevue, WA 98007",47.6293137,-122.144053,Not Applicable
 ChargePoint Charging Station,"Redmond, WA, USA","Unnamed Road, Kirkland, WA 98033",47.6753648,-122.2074791,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","1288 124th Ave NE, Bellevue, WA 98005",47.6219384,-122.175997,Slow
 ChargePoint Charging Station,"Redmond, WA, USA","9800 NE 37th Ct, Kirkland, WA 98033",47.643584,-122.1959131,Slow
 Shell Recharge Charging Station,"Redmond, WA, USA","805 156th Ave NE, Bellevue, WA 98007",47.617634599999995,-122.1334394,Slow
-Blink Charging Station,"Redmond, WA, USA","16240 NE 13th Pl, Bellevue, WA 98008",47.622996,-122.12324699999999,Not Applicable
-ChargePoint Charging Station,"Redmond, WA, USA","12355 NE District Wy, Bellevue, WA 98005",47.621055,-122.175961,Slow
 Electric Vehicle Charging Station,"Redmond, WA, USA","3801 159th Ave NE # 17, Redmond, WA 98052",47.643702,-122.1288239,Unknown
 Blink Charging Station,"Redmond, WA, USA","14526 NE 7th Pl, Bellevue, WA 98007",47.616737,-122.146188,Slow
+ChargePoint Charging Station,"Redmond, WA, USA","15550 NE Turing St, Redmond, WA 98052",47.6356301,-122.13362029999999,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","Kirkland, WA 98033",47.655653199999996,-122.2051934,Slow
-Chargefox Charging Station,"Redmond, WA, USA","3850 148th Ave NE, Redmond, WA 98052",47.6436911,-122.14131769999999,Not Applicable
 Shell Recharge Charging Station,"Redmond, WA, USA","616 120th Ave NE, Bellevue, WA 98005",47.615410399999995,-122.1794845,Slow
 Blink Charging Station,"Redmond, WA, USA","2125 158th Ct NE Suite 110, Bellevue, WA 98008",47.630395299999996,-122.1284522,Slow
+Blink Charging Station,"Redmond, WA, USA","12221 120th Ave NE, Kirkland, WA 98034",47.7083478,-122.18381629999999,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","647 140th Ave NE, Bellevue, WA 98005",47.6166705,-122.15404699999999,Slow
-Electric Vehicle Charging Station,"Redmond, WA, USA","15590 NE 31st St, Redmond, WA 98052",47.639068599999995,-122.1331991,Not Applicable
-Electric Circuit Charging Station,"Redmond, WA, USA","805 156th Ave NE, Bellevue, WA 98007",47.617633999999995,-122.13343889999999,Not Applicable
-Blink Charging Station,"Redmond, WA, USA","3500 Carillon Point, Kirkland, WA 98033",47.657544099999996,-122.2065131,Not Applicable
+Shell Recharge Charging Station,"Redmond, WA, USA","18080 NE 76th St, Redmond, WA 98052",47.6723594,-122.09903399999999,Not Applicable
+Blink Charging Station,"Redmond, WA, USA","16242 NE 13th Pl, Bellevue, WA 98008",47.621913,-122.122271,Not Applicable
+Blink Charging Station,"Redmond, WA, USA","Parking lot, 2041 148th Ave NE, Bellevue, WA 98007",47.6293137,-122.144053,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","11607 98th Ave NE, Kirkland, WA 98034",47.7047538,-122.21115839999999,Slow
-Electric Vehicle Charging Station,"Redmond, WA, USA","787 6th St South, Kirkland, WA 98033",47.669109299999995,-122.19783609999999,Not Applicable
-Shell Recharge Charging Station,"Redmond, WA, USA","12543 NE 23rd Pl, Bellevue, WA 98005",47.6311949,-122.17257359999999,Not Applicable
-Electric Vehicle Charging Station,"Redmond, WA, USA","14216 140th Pl NE, Kirkland, WA 98034",47.7300553,-122.15126989999999,Not Applicable
+Blink Charging Station,"Redmond, WA, USA","16240 NE 13th Pl, Bellevue, WA 98008",47.622996,-122.12324699999999,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","12034 134th Ct NE, Redmond, WA 98052",47.708826699999996,-122.1601307,Slow
+Chargefox Charging Station,"Redmond, WA, USA","3850 148th Ave NE, Redmond, WA 98052",47.6436911,-122.14131769999999,Not Applicable
+Electric Vehicle Charging Station,"Redmond, WA, USA","15590 NE 31st St, Redmond, WA 98052",47.639068599999995,-122.1331991,Not Applicable
 Blink Charging Station,"Redmond, WA, USA","1231 116th Ave NE, Bellevue, WA 98004",47.621193999999996,-122.186139,Slow
+Electric Circuit Charging Station,"Redmond, WA, USA","805 156th Ave NE, Bellevue, WA 98007",47.617633999999995,-122.13343889999999,Not Applicable
 Tesla Destination Charger,"Redmond, WA, USA","14850 NE 145th St, Woodinville, WA 98072",47.7339591,-122.1469968,Medium
 Blink Charging Station,"Redmond, WA, USA","2000 Carillon Point, Kirkland, WA 98033",47.6565053,-122.20672789999999,Slow
 Blink Charging Station,"Redmond, WA, USA","11 Main St S, Kirkland, WA 98033",47.6753316,-122.20579679999999,Slow
-Blink Charging Station,"Redmond, WA, USA","1407 116th Ave NE, Bellevue, WA 98004",47.6229655,-122.1858991,Not Applicable
+Blink Charging Station,"Redmond, WA, USA","3500 Carillon Point, Kirkland, WA 98033",47.657544099999996,-122.2065131,Not Applicable
 Volta Charging Station,"Redmond, WA, USA","Redmond, WA 98053",47.645190799999995,-122.02597689999999,Slow
+Electric Vehicle Charging Station,"Redmond, WA, USA","787 6th St South, Kirkland, WA 98033",47.669109299999995,-122.19783609999999,Not Applicable
+Shell Recharge Charging Station,"Redmond, WA, USA","12543 NE 23rd Pl, Bellevue, WA 98005",47.6311949,-122.17257359999999,Not Applicable
+Electric Vehicle Charging Station,"Redmond, WA, USA","14216 140th Pl NE, Kirkland, WA 98034",47.7300553,-122.15126989999999,Not Applicable
+Blink Charging Station,"Redmond, WA, USA","1407 116th Ave NE, Bellevue, WA 98004",47.6229655,-122.1858991,Not Applicable
 Shell Recharge Charging Station,"Redmond, WA, USA","12903 NE 20th St, Bellevue, WA 98005",47.6276967,-122.16789089999999,Not Applicable
 Tesla Supercharger,"Redmond, WA, USA","Fred Meyer, 12221 120th Ave NE, Kirkland, WA 98034",47.709207,-122.18345199999999,Very fast
 EVgo Charging Station,"Bellevue, WA, USA","888 116th Ave NE, Bellevue, WA 98004",47.618936299999994,-122.1841633,Super fast
