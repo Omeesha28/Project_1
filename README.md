@@ -17,8 +17,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 
 # Group Members 
-Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
-
+Esha Patel, Ipsita Pattanaik, Jeff Morgan, Neil Lawren, Smita Shah
 ### PROJECT OUTINE
 
 * Select the real-world data set from API/any other source.
