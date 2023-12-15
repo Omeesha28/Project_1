@@ -17,8 +17,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 
 # Group Members 
-Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
-
+Esha Patel, Ipsita Pattanaik, Jeff Morgan, Neil Lawren, Smita Shah
 ### PROJECT OUTINE
 
 * Select the real-world data set from API/any other source.
@@ -176,12 +175,12 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 </div>
 
 #### Analysis: 
-- Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentives. 
+- Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7,500. We found that not all electric cars are eligible for federal tax incentives. 
 
 ### MAIN ANALYSIS: Is Washington Ready for the EV Revolution?
-- Based on our research and provided the data, we do not think Washington State is ready for the EV Revolution yet. In our project, we have analyzed the top 5 cities with the most electric vehicles registered and we found that there are many charging stations available. High-speed charging can adversely impact the lifespan of a car's battery. Nonetheless, the majority of cars are equipped with an integrated battery management system designed to regulate both the charging speed and the temperature of the battery. Most of the charging stations are slow in charging speed which would not be convenient for everyone specially those who do not have charging stations near their homes and workplaces which will result in issues like cars not having sufficient charge when needed.
+- Based on our research and provided the data, we do not think Washington State is ready for the EV Revolution yet. In our project, we have analyzed the top 5 cities with the most electric vehicles registered and we found that there are not enough charging stations available. High-speed charging can adversely impact the lifespan of a car's battery. Nonetheless, the majority of cars are equipped with an integrated battery management system designed to regulate both the charging speed and the temperature of the battery. Most of the charging stations are slow in charging speed which would not be convenient for everyone specially those who do not have charging stations near their homes and workplaces which will result in issues like cars not having sufficient charge when needed.
 - When purchasing an EV vehicle, it is important to know if there are any federal and state incentives provided.
 
 # Limitations 
-- Due to the limitation of time and funds, it restricted the depth and thoroughness of the analysis that can be performed. Most of the data available required alot of funding which we did not have to complete the project.  
+- Due to the limitation of time and funds, it restricts the depth and thoroughness of the analysis that can be performed. Most of the data available required a lot of funding which we did not have to complete the project.  
 - Another challenge was data acquisition. We were unable to find datasets for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
