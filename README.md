@@ -71,6 +71,11 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 - A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles. 
 - A pie chart was also created to show charger distribution for the selected top 5 cities with the greatest population of electric vehicles. 
 
+![output](Bellevue_Charging_Speed_Distribution.png)
+![output](Bothell_Charging_Speed_Distribution.png)
+
+
+
 #### Map Plot:
 - A map plot using hvplot.points is created to display the availability of charging stations near the selected cities on a map. 
 
