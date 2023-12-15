@@ -2,7 +2,7 @@
 
 # 1 Project Idea
 
-Should you buy an electric car in the state of Washington, USA?
+Is Washington Ready for the EV Revolution?
 
 # 2 Data Source
 
@@ -32,7 +32,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 1. Which cities in Washington have the most electric and hybrid cars registered?
 2. What is the ratio of cars to chargers in the selected cities? 
     - fast/slow charging ports
-3. Do the most popular car models in the selected cities have federal rebate?
+3. What are the most popular car models in the selected cities and do they have federal rebate?
 
 # Analysis
 ### QUESTION 1 ANALYSIS: Which cities in Washington have the most electric and hybrid cars registered?
