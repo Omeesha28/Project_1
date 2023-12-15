@@ -52,7 +52,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 #### Visualizations:
 ##### Bar Chart 1: Top 5 Cities with Highest EV and Plug-in-hybrid Cars Registered
 -	Represents the top 5 cities based on registered electric and plug-in hybrid vehicles.
-
+  
 ![output](output_data/Top_5_Cities.png) 
 
 ##### Bar Chart 2: Total Chargers Available by Cities
@@ -74,25 +74,80 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 #### Pie Chart:
 - A pie chart is created to visualize the distribution of charging speeds for the selected top 5 cities with the greatest population of electric vehicles.
 
-![output](output_data/Bellevue_Charging_Speed_Distribution.png) 
-![output](output_data/Bothell_Charging_Speed_Distribution.png)
-![output](output_data/Redmond_Charging_Speed_Distribution.png)
-![output](output_data/Seattle_Charging_Speed_Distribution.png)
-![output](output_data/Vancouver_Charging_Speed_Distribution.png)
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Bellevue_Charging_Speed_Distribution.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/Bothell_Charging_Speed_Distribution.png" width="400"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="output_data/Redmond_Charging_Speed_Distribution.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Seattle_Charging_Speed_Distribution.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/Vancouver_Charging_Speed_Distribution.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 - A pie chart was also created to show charger distribution and car to charger ratio for the selected top 5 cities with the greatest population of electric vehicles. 
 
-![output](output_data/Car_to_Charger_Ratio_per_city.png) 
-![output (output_data/Charging_Speed_Distribution.png) 
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Car_to_Charger_Ratio_per_city.png" width="500"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/Charging_Speed_Distribution.png" width="500"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 #### Map Plot:
 - A map plot using hvplot.points is created to display the availability of charging stations near the selected cities on a map.
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Charging_Stations_in_Bellevue.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/Charging_Stations_in_Bothell.png" width="400"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="output_data/Charging_Stations_in_Seattle.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
-![output](output_data/Charging_Stations_in_Bellevue.png) 
-![output](output_data/Charging_Stations_in_Bothell.png)
-![output](output_data/Charging_Stations_in_Seattle.png)
-![output](output_data/Charging_Stations_Vancouver.png)
-![output](output_data/Charging_Stations_Redmond.png)
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Charging_Stations_Vancouver.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/Charging_Stations_Redmond.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 #### Analysis: 
 - The analysis shows that overall the top 5 cities have more than 60% of slow chargers. Based on the data, we think that the cities need more fast chargers as it would not be sustainable if there were more electric cars registered per city. 
@@ -106,8 +161,19 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 
 #### Bar Chart: Most Popular Car Models in all 5 Cities and WordCloud:
 -	Represents the top 6 car models for all selected cities.
-
-![output](output_data/WordCloud.png) 
+  
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="output_data/Most_popular_car_models.png" width="500"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="output_data/WordCloud.png" width="500"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 #### Analysis: 
 - Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentives. 
