@@ -94,6 +94,6 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 #### Analysis: 
 - Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y it also has a federal incentive of $7500. We found that not all electric cars are eligible for federal tax incentive. 
 
-### QUESTION 2 ANALYSIS: OVERALL QUESTION!!!!
+### MAIN ANALYSIS: OVERALL QUESTION!!!!
 
 
