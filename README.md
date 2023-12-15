@@ -1,10 +1,10 @@
 # Project_1
 
-# 1. Project Idea
+# Project Idea
 
 Is Washington Ready for the EV Revolution?
 
-# 2. Data Source
+# Data Source
 
 https://rapidapi.com/letscrape-6bRBa3QguO5/api/ev-charge-finder
 - Charging Location 
@@ -28,13 +28,13 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 * Ask and Answer questions from the dataset.
 
 
-# 3. Questions to be answered
+# Sub-Questions to be answered
 1. Which cities in Washington have the most electric and hybrid cars registered?
 2. What is the ratio of cars to chargers in the selected cities? 
     - fast/slow charging ports
 3. What are the most popular car models in the selected cities and do they have federal rebate?
 
-# 5. Analysis
+# Analysis
 ### QUESTION 1 ANALYSIS: Which cities in Washington have the most electric and hybrid cars registered?
 #### Data Overview:
 -	Total Rows: 159,106
