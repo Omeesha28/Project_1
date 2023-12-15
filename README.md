@@ -75,7 +75,7 @@ Esha Patel, Jeff Morgan, Ipsita Pattanaik, Smita Shah, Neil Lawren
 -	The charging_speed_counts variable stores the count of each charging speed category in the filtered data.
 -	The pie chart is created using Matplotlib with labeled slices, colors, and other styling options.
 
-![output](Bellevue Charging Speed Distribution.png)
+![output](Bellevue_Charging_Speed_Distribution.png)
 
 #### Map Plot:
 - A map plot using hvplot.points is created to display the availability of charging stations on a map for top selected cities. 
