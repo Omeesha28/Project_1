@@ -185,5 +185,9 @@ Esha Patel, Ipsita Pattanaik, Jeff Morgan, Neil Lawren, Smita Shah
 - In conclusion, our findings suggest that Washington State might need to invest more in building a strong charging infrastructure to support the increasing number of electric vehicles. Dealing with these infrastructure challenges and making people aware of available incentives is crucial for creating a better environment for the Electric Vehicle Revolution in the state.
 
 # Limitations 
-- Due to the limitation of time and funds, it restricts the depth and thoroughness of the analysis that can be performed. Most of the data available required a lot of funding which we did not have to complete the project.  
-- Another challenge was data acquisition. We were unable to find datasets for free. There are chances that our free datasets may be incomplete or outdated, affecting the accuracy of the analysis. 
+
+Limitations in the research arise from two key factors: limited time and funds, and challenges associated with data acquisition.
+
+- The depth and thoroughness of the analysis were constrained by a shortage of time and financial resources. Comprehensive research often demands significant investments of time and money to gather extensive data, conduct thorough analyses, and ensure the accuracy of findings.  
+- Data acquisition faced challenges, particularly in relying on open-source data. Open-source data, while valuable, may be incomplete or outdated. This limitation can compromise the accuracy and relevance of the analysis, as the data used may not fully reflect the current state of the subject under investigation.
+- Acknowledging these limitations is essential for a balanced understanding of the research findings and suggests areas for improvement in future studies. Thank You. Does anyone have any questions. 
