@@ -177,7 +177,7 @@ Esha Patel, Ipsita Pattanaik, Jeff Morgan, Neil Lawren, Smita Shah
 #### Analysis: 
 - Based on our analysis, the most popular car choosen by buyers in selected cities is the TESLA Model Y. It  has a federal incentive of $7,500. We found that not all electric cars are eligible for federal tax incentives. 
 
-### MAIN ANALYSIS: Is Washington Ready for the EV Revolution?
+# MAIN ANALYSIS: Is Washington Ready for the EV Revolution?
 - Our research shows that Washington State may not be fully ready for the Electric Vehicle Revolution right now. We focused on the top 5 cities with the most registered electric vehicles and found a concerning lack of infrastructure to support widespread EV use.
 - One main issue is the shortage of charging stations in these cities. Despite more electric vehicles on the road, the current charging infrastructure isn't keeping up with the growing demand. This lack of charging stations can be a big problem for EV owners, especially for those who can't easily charge near their homes or workplaces.
 - Our research also indicates that most charging stations are relatively slow. This not only makes using EVs less convenient but could lead to practical issues like not having enough charge when needed. Some people believe that high-speed charging can affect the lifespan of an electric car's battery. However, modern electric vehicles usually have built-in systems to manage charging speed and battery temperature, reducing potential negative impacts.
